@@ -1,0 +1,10 @@
+#without parameter, without return value
+#syntax
+#def function_name(parameters):
+#      block of code
+
+def wellcome():
+    print('wellcome')
+
+#calling function
+wellcome()

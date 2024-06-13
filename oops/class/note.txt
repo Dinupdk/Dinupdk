@@ -1,0 +1,10 @@
+                              class variables
+            normal variables                                static variables
+
+
+
+
+                                method
+
+            normal object          static               class
+            use methods             methods              methods

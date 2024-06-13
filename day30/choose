@@ -1,0 +1,199 @@
+1. What is the purpose of a variable in Python?
+a) To store data
+b) To perform calculations
+c) To create loops
+d) To define functions
+2. Which of the following data types is immutable in Python?
+a) List
+b) Set
+c) Dictionary
+d) Tuple
+3. How do you convert the string `"50"` to an integer in Python?
+a) `int("50")`
+b) `convert_to_int("50")`
+c) `str_to_int("50")`
+d) `integer("50")`
+4. Which loop is best suited when the number of iterations is known in advance?
+a) `for` loop
+b) `while` loop
+c) Both are equally suitable
+d) It depends on the situation
+5. What is the output of the following code snippet?
+    ```python
+    x = 5
+    x += 3
+    print(x)
+    ```
+    a) 3
+    b) 5
+    c) 8
+    d) 15
+6. How do you take user input in Python?
+a) `input()`
+b) `user_input()`
+c) `get_input()`
+d) `read_input()`
+7. Which conditional statement is used to check multiple conditions?
+a) `if`
+b) `else`
+c) `elif`
+d) `then`
+8. What does the `range(3, 10)` function generate?
+a) A sequence from 0 to 9
+b) A sequence from 3 to 10
+c) A sequence from 3 to 9
+d) A sequence from 3 to 11
+9. What is the output of `print("Hello", end=" ")` followed by `print("World")`?
+a) `Hello World`
+b) `Hello`
+c) `World`
+d) `Hello\\nWorld`
+10. Which of the following is used to define a function in Python?
+a) `func`
+b) `def`
+c) `define`
+d) `function`
+11. Which data type is best suited to store a collection of unique values?
+a) List
+b) Set
+c) Dictionary
+d) Tuple
+12. How do you check if a certain value exists in a list?
+a) `value in list`
+b) `list.contains(value)`
+c) `list.includes(value)`
+d) `list.exists(value)`
+13. What will the following code print?
+    
+    ```python
+    for i in range(5):
+        print(i * "*")
+    
+    ```
+    
+    a) Prints the numbers from 0 to 4
+    b) Prints a pattern of asterisks
+    c) Prints a pattern of numbers
+    d) Generates an error
+    
+14. What does the `len()` function return for a dictionary?
+a) The number of keys in the dictionary
+b) The number of values in the dictionary
+c) The sum of the lengths of all keys and values
+d) The total number of items in the dictionary
+15. What is the purpose of a `return` statement in a function?
+a) It terminates the function
+b) It outputs a value from the function
+c) It defines a loop
+d) It defines a condition
+16. How do you reverse a string `"Python"`?
+a) `"Python"[::-1]`
+b) `reverse("Python")`
+c) `reverse_string("Python")`
+d) `"Python".reverse()`
+17. Which of the following is a valid way to add a key-value pair to a dictionary?
+a) `dict.add(key, value)`
+b) `dict[key] = value`
+c) `dict.insert(key, value)`
+d) `dict.append(key, value)`
+18. What is the output of `print(3 * 5)`?
+a) 8
+b) 15
+c) 53
+d) `15`
+19. What does the following code snippet do?
+    
+    ```python
+    num = 10
+    while num > 0:
+        print(num)
+        num -= 2
+    
+    ```
+    
+    a) Prints even numbers from 10 to 0
+    b) Prints odd numbers from 10 to 0
+    c) Prints numbers from 10 to 0 in steps of 2
+    d) Generates an error
+20. Write nested loops to print the following pattern:
+    
+    ```
+    *
+    **
+    ***
+    ****
+    
+    ```
+    
+    a) This pattern cannot be achieved using nested loops.
+    b) It will print a different pattern.
+    c) The correct nested loops are included below this question.
+    d) It depends on the input provided to the loops.
+    
+21. Which of the following is NOT a valid variable name in Python?
+a) `my_var`
+b) `variable_name`
+c) `123_variable`
+d) `_underscore`
+22. What does the `input()` function do in Python?
+a) Displays output on the screen
+b) Takes user input from the keyboard
+c) Converts data types
+d) Performs mathematical calculations
+23. What will the following code snippet print?
+    
+    ```python
+    for i in range(3):
+        for j in range(i+1):
+            print("*", end="")
+        print()
+    
+    ```
+    
+    a) Prints a pattern of asterisks: `*`, `**`, `***`
+    b) Prints a pattern of asterisks: `***`, `**`, `*`
+    c) Prints a pattern of asterisks: `*`, `*`, `*`
+    d) Generates an error
+    
+24. Which of the following is an example of a mutable data type?
+a) String
+b) Integer
+c) Float
+d) List
+25. What is the purpose of the `elif` statement in Python?
+a) It defines a loop
+b) It handles exceptions
+c) It follows the `else` statement
+d) It provides an alternative condition to check
+26. What will the following code snippet output?
+    
+    ```python
+    sentence = "Python programming is fun"
+    words = sentence.split()
+    print(len(words))
+    
+    ```
+    
+27. How do you access the value associated with the key `"age"` in a dictionary `person`?
+a) `person("age")
+
+      b)person["age"]
+
+      c)person.get("age")
+
+      d)person.value("age")`
+What does the break statement do in a loop?
+a) It continues to the next iteration of the loop
+b) It exits the loop immediately
+c) It skips the current iteration and moves to the next one
+d) It raises an error
+What is the result of 10 / 3 in Python?
+a) 3.3333
+b) 3.0
+c) 3
+d) 3.333
+Write nested loops to print the following pattern:
+   *
+  ***
+ *****
+*******

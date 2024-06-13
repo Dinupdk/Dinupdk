@@ -1,0 +1,25 @@
+1. Create a variable `name` and assign your name to it. Print a message using the variable, such as: "Hello, [name]!"
+2. Convert the string `"37"` to an integer and assign it to a variable `num`. Print the value and type of `num`.
+3. Define a tuple with four elements: `"apple"`, `"banana"`, `"cherry"`, and `"date"`. Print the second element.
+4. Swap the values of two variables, `x` and `y`, without using a temporary variable.
+5. Write a program that takes your age as input and prints a sentence like: "You are [age] years old."
+6. Calculate the product of two numbers entered by the user and print the result.
+7. Format the variables `item = "hat"` and `price = 19.99` into a sentence.
+8. Write a function that takes an integer as input and returns whether it's a prime number or not.
+9. Create a program that checks if a user-input number is positive, negative, or zero.
+10. Write a program that prints the Fibonacci sequence up to a specified number of terms.
+11. Print the multiplication table of 7 using nested loops.
+12. Print each character of the string `"Python"` on a new line using nested loops.
+13. Create a list of your favorite colors and print each color in a sentence: "I like [color]."
+14. Add the number 5 to a set. Add the number 5 again and observe the set's behavior.
+15. Write a function that takes a list as input and returns a new list with unique elements only.
+16. Create a tuple containing your birth year, birth month, and birth day. Print each element separately.
+17. Define a function `calculate_average` that takes a list of numbers as input and returns their average.
+18. Write a function `factorial` that calculates the factorial of a given number using recursion.
+19. Define a function that takes any number of strings as arguments and returns them concatenated.
+20. Check if the word `"apple"` is present in the string `"I like apples and oranges."`
+21. Count the occurrences of the letter `"t"` in the string `"Testing the text for t's."`
+22. Reverse the string `"Python"` using a loop.
+23. Create a dictionary representing a book with keys `"title"`, `"author"`, and `"year"`. Print the author's name.
+24. Add a new book to the dictionary, modify the title of an existing book, and retrieve the year of a specific book.
+25. Print a pattern of right-angled triangles using nested loops:
