@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinesh Kumar</h1>
 <h3 align="center">A passionate frontend developer, backend developer and full stack developer from India</h3>
+<img src="https://res.cloudinary.com/dogvcvxu2/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1728275113/IMG-20240411-WA0006_y30teo.jpg" alt="Dinesh"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinupdk&label=Profile%20views&color=0e75b6&style=flat" alt="dinupdk" /> </p>
 
@@ -8,6 +9,8 @@
 - 🌱 I’m currently learning **ReactJS,Mongodb,MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://dinupdk.netlify.app/](https://dinupdk.netlify.app/)
+
+- 📝 I regularly write articles on [https://dinu-blog.netlify.app/](https://dinu-blog.netlify.app/)
 
 - 📫 How to reach me **dineshpdk789@gmail.com**
 
@@ -19,7 +22,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/dinupdk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dinupdk" height="30" width="40" /></a>
+<a href="https://twitter.com/dineshpdk789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dineshpdk789" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dinesh-kumar-a79535314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinesh-kumar-a79535314" height="30" width="40" /></a>
+<a href="https://kaggle.com/dineshpdk789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dineshpdk789" height="30" width="40" /></a>
 <a href="https://instagram.com/dineshpdk789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dineshpdk789" height="30" width="40" /></a>
 <a href="https://medium.com/@dineshpdk789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dineshpdk789" height="30" width="40" /></a>
 </p>
